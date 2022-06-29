@@ -7,6 +7,9 @@
 _ 😄 Pronouns ~ (she/her)
 
 _ 🌻 a little fact about me ~ Two things that make me feel ready to start my day with full productivity. Wake up in the morning and walk. 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Danav4&theme=vue)
+
+
 
 <!---
 DanaV4/DanaV4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
